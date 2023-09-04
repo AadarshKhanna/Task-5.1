@@ -1,0 +1,35 @@
+.inline-block{
+  display: inline-block;
+  width: 60%;
+  height: auto;
+  background-color: rgb(198, 191, 191);
+  font-size: large;
+  font-weight: bold;
+  font-style: "Times New Roman";
+}
+
+span{
+  color: red;
+}
+
+textarea{
+  width: 27%;
+  height: 350px;
+}
+
+.article_area{
+  width: 27%;
+  height: 250px;
+}
+
+.abstract_area{
+  width: 27%;
+  height: 50px;
+}
+
+.b_type{
+  width: 7%;
+  font-size: medium;
+  margin-left: 20%;
+  background-color: gray;
+}
