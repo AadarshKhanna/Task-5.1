@@ -1,11 +1,20 @@
+
 .inline-block{
   display: inline-block;
-  width: 60%;
+  width: 28%;
   height: auto;
   background-color: rgb(198, 191, 191);
   font-size: large;
   font-weight: bold;
   font-style: "Times New Roman";
+  text-align: left;
+}
+
+.alignleft{
+  display: inline-block;
+  width: 28%;
+  height: auto;
+  text-align: left;
 }
 
 span{
@@ -15,11 +24,13 @@ span{
 textarea{
   width: 27%;
   height: 350px;
+  text-align: center;
 }
 
 .article_area{
   width: 27%;
   height: 250px;
+  text-align: left;
 }
 
 .abstract_area{
